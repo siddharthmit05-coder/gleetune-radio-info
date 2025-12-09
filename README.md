@@ -1,4 +1,4 @@
-# 🌍 GleeTune Radio Information
+# 🌍 GleeTune Worldwide Radio Information
 Information hub for Gleetune (gleetune.com) - global AM, FM, and shortwave radio streaming platform. Technical docs on radio propagation, station database info, broadcast frequencies, and guides for exploring 10,000+ live radio stations worldwide.
 
 **Official radio station data repository for [GleeTune.com](https://gleetune.com) - Global Radio Explorer**
@@ -7,6 +7,7 @@ Information hub for Gleetune (gleetune.com) - global AM, FM, and shortwave radio
 [![Status](https://img.shields.io/badge/Status-Public%20Beta-blue)](https://gleetune.com)
 
 ## About GleeTune
+<img width="70" height="70" alt="logo-gt-v2" src="https://github.com/user-attachments/assets/652b72cd-6a9b-4db2-871d-ac6feb05a107" />
 
 [GleeTune](https://gleetune.com) is a global radio streaming platform that brings together AM, FM, and shortwave radio stations from around the world. Experience authentic radio listening with realistic propagation modeling and verified international streams.
 
@@ -17,6 +18,16 @@ Information hub for Gleetune (gleetune.com) - global AM, FM, and shortwave radio
 - **Geographic Discovery** - Explore radio stations by city, country, or band type
 - **Live Streaming** - High-quality audio streams from verified broadcasters
 - **Multi-Band Support** - AM (530-1700 kHz), FM (88-108 MHz), Shortwave (5.9-15.6 MHz)
+
+## Screenshots
+
+![Gleetune App](https://github.com/user-attachments/assets/cbc165bd-3a36-48fc-9f22-9ce3182a21aa)
+![Gleetune App_Playback](https://github.com/user-attachments/assets/cbae2d78-5233-4ebb-a441-36df024fa160)
+![Gleetune App _ Search](https://github.com/user-attachments/assets/97e5917a-97e1-46ca-a711-f8f2d6822e50)
+![Gleetune App _ Search by Country and State](https://github.com/user-attachments/assets/aa0c172d-b2cf-4492-a817-1852f3e879db)
+![Gleetune App _ Search by language](https://github.com/user-attachments/assets/962b8c14-bf50-41c1-824b-f4f672700e51)
+![Gleetune App _ Search by Genre](https://github.com/user-attachments/assets/234ff9a2-9b5e-465a-bf26-11e327fc0c73)
+![Gleetune App _ General Search All](https://github.com/user-attachments/assets/44b2f2c5-ae69-4d35-996b-c7d832f44a53)
 
 ## 🌐 What Makes GleeTune Different
 
